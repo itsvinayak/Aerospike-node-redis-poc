@@ -1,1 +1,7 @@
 asadm
+aql 
+
+
+##
+sorted set not available in aerospike 6.1.0.1
+exists.Creates a new set if it does not exist. take more then 1 second
